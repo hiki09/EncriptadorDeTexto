@@ -69,6 +69,7 @@
     width: 80%;
     left: 12%;
     top: 82%;
+    gap: 10px;
 }
 
 .btnEncriptar{
@@ -84,6 +85,7 @@
     line-height: 19px;
     text-align: center;
     color: #fff;
+    margin-right: 10px;
 }
 
 .btnDesencriptar{
